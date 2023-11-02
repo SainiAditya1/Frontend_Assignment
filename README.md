@@ -4,10 +4,10 @@
 
 To setup the project on your local environment, follow the given steps:
 
-1. Fork the [SainiAditya1/QuickSell_Assignment](https://github.com/SainiAditya1/QuickSell_Assignment) repository.
+1. Fork the [SainiAditya1/Frontend_Assignment](https://github.com/SainiAditya1/Frontend_Assignment) repository.
 2. Clone the repository:
 ```
-https://github.com/<USERNAME>/QuickSell_Assignment
+git clone https://github.com/<USERNAME>/Frontend_Assignment
 
 ```
 
@@ -16,7 +16,7 @@ https://github.com/<USERNAME>/QuickSell_Assignment
 Move to the Project directory
 
 ```bash
-  cd QuickSell_Assignment
+  cd Frontend_Assignment
 ```
 
 Install the necessary dependencies

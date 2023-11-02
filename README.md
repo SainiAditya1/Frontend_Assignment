@@ -33,8 +33,10 @@ To Run the Project
 
 Open http://localhost:3000 to view it in your browser.
 
+![Screenshot from 2023-11-02 18-22-10](https://github.com/SainiAditya1/Frontend_Assignment/assets/114948505/be56654f-05a7-4e8e-9519-a9a6a346b4b3)
 
-![Screenshot from 2023-11-02 18-22-10](https://github.com/SainiAditya1/QuickSell_Assignment/assets/114948505/1aaae8e2-e5c9-4e08-ad1f-9b0d6e035c03)
-![Screenshot from 2023-11-02 18-22-29](https://github.com/SainiAditya1/QuickSell_Assignment/assets/114948505/62cf7565-e5d2-4215-be9a-6961659a8429)
+![Screenshot from 2023-11-02 18-22-29](https://github.com/SainiAditya1/Frontend_Assignment/assets/114948505/d6ff7b81-4762-4d01-82c4-f3aa55438d73)
+
+
 
 
